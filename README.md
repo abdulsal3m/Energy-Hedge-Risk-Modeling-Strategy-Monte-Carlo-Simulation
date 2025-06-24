@@ -1,6 +1,6 @@
 # Strategic Hedging Optimization & Risk Analytics for Energy-Intensive Operations (ERCOT, 2025)
 
-This repository contains a comprehensive data analytics and financial modeling project that explores hedge strategy performance and risk mitigation for energy-intensive operations — such as data centers and cryptocurrency mining — operating within the ERCOT market (Jan–May 2025). The study focuses on comparing Load Zone vs. Hub-based hedging instruments, measuring their profitability, volatility shielding, and operational viability through real-world forward pricing data, custom simulations, and quantitative modeling.
+This repository contains a comprehensive data analytics and financial modeling project that explores hedge strategy performance and risk mitigation for energy-intensive operations such as data centers and cryptocurrency mining operating within the ERCOT Texas Energy market. The study focuses on comparing Load Zone vs. Hub-based hedging instruments, measuring their profitability, volatility shielding, and operational viability through real-world forward pricing data, custom simulations, and quantitative modeling.
 
 ---
 
